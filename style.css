@@ -1,0 +1,47 @@
+body
+{
+  color: white;
+  background: #df7367;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#q{
+  margin-top: 5px;
+}
+
+p{
+  font-size: 20px;
+}
+
+#t{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.labels12{
+  background: rgb(85, 76, 205);
+  color: rgb(225, 255, 225);
+  border-radius: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
